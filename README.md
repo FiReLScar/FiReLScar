@@ -6,7 +6,7 @@ I'm a 17 year old developer who creates low level software mainly, such as opera
 ## [N11Software/Link](https://github.com/N11Software/Link)
 Link is a multithreaded http server.
 * Currently only has HTTP \[Temporary\]
-* Can serve files with no backend code \[Backend is hardcoded\]
+* Can serve files with no backend language \[Backend is hardcoded\]
 
 ## [N11Software/Hydra](https://github.com/N11Software/Hydra)
 Hydra is a 64 bit operating system that is targetted to being completely from scratch with no external libraries.
