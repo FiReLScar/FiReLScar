@@ -18,7 +18,3 @@ Hydra is a 64 bit operating system that is targetted to being completely from sc
 Nuclear is a compiler for a javascript like language but still being low level and directly compiled into assembly.
 * Low Level
 * Javascript like syntax
-
-# Certifications
-> So far I only really have one certification but I will be working to get all of the certifications from THM and Codecademy
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KMDXYKUGKV.png"/>
