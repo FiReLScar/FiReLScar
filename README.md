@@ -4,7 +4,7 @@ I'm a 17 year old developer who creates low level software mainly, such as opera
 # Projects
 > 90% of my projects live on [N11Software](https://github.com/N11Software) which is what I hope to be a legitimate company at some point.
 ## [N11Software/Link](https://github.com/N11Software/Link)
-Link is a multithreaded http server.
+Link is a multithreaded http server library.
 * Currently only has HTTP \[Temporary\]
 * Can serve files with no backend language \[Backend is hardcoded\]
 
